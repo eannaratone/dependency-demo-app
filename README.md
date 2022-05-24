@@ -1,5 +1,3 @@
-This is how we scan it
-
 Esteban Annaratone
 
 # dependency-demo-app
